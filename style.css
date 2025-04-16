@@ -1,0 +1,36 @@
+.header{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 1px 1px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px; 
+}
+.links{
+    text-align: center;
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: hsl(150, 85%, 70%);  
+    border-style: ridge;
+    border-radius: 10px;
+    padding: 1px 1px;
+}
+.title{
+    text-align: center;
+    background-color: brown;
+    padding: 1px 1px;
+    border-style: ridge;
+}
+.Home-Button{
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 5px;
+    margin-left: 895px;
+    border-style: ridge;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
